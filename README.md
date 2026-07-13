@@ -66,10 +66,16 @@ downloads are attached to every release.
 
 ### Install on Windows
 
-1. Download **Sumi-Windows.zip** and extract it anywhere.
+1. Download **Sumi-Windows.zip** and extract it fully (don't run from
+   inside the zip).
 2. Run **sumi.exe**.
-3. First launch only — SmartScreen will warn about an unrecognized
-   app: click **More info → Run anyway**.
+3. First launch — Windows shows one of two warnings for unsigned beta
+   apps; both are one-time if handled as below:
+   - **"The publisher could not be verified"** — untick
+     **"Always ask before opening this file"**, then click **Run**.
+     With the box unticked, the warning never appears again.
+   - **SmartScreen "Windows protected your PC"** — click
+     **More info → Run anyway**.
 
 ## Privacy
 
