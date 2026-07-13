@@ -41,8 +41,8 @@ deliberate exit (Esc, three times) so a stray key never breaks focus.
 ## Download
 
 <p>
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/syvrynlabs/sumi-releases?style=flat-square&label=latest&labelColor=1e1e1e&color=555" alt="Latest release"></a>
-  <img src="https://img.shields.io/github/downloads/syvrynlabs/sumi-releases/total?style=flat-square&label=downloads&labelColor=1e1e1e&color=555" alt="Total downloads">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/syvrynlabs/sumi-releases?style=flat-square&cacheSeconds=300&label=latest&labelColor=1e1e1e&color=555" alt="Latest release"></a>
+  <img src="https://img.shields.io/github/downloads/syvrynlabs/sumi-releases/total?style=flat-square&cacheSeconds=300&label=downloads&labelColor=1e1e1e&color=555" alt="Total downloads">
 </p>
 
 **[⬇ Get the latest release](../../releases/latest)** — both platform
