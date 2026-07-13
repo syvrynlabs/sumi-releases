@@ -82,6 +82,16 @@ downloads are attached to every release.
    - **SmartScreen "Windows protected your PC"** — click
      **More info → Run anyway**.
 
+   <details>
+   <summary>What the warning looks like</summary>
+   <br>
+   <p align="center">
+     <img src="assets/windows-warning-1.jpg" width="480" alt="Open File security warning — untick “Always ask before opening this file”, then click Run">
+     <br><br>
+     <img src="assets/windows-warning-2.jpg" width="480" alt="The same warning with the checkbox unticked — it will not appear again">
+   </p>
+   </details>
+
 ## Privacy
 
 Sumi collects nothing. No analytics, no telemetry, no tracking, no
