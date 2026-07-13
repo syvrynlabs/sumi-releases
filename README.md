@@ -76,6 +76,11 @@ downloads are attached to every release.
 Sumi collects nothing. No analytics, no telemetry, no tracking, no
 network access.
 
+## Feedback
+
+Suggestions, questions, or anything unclear — we'd love to hear from
+you: **hello.syvryn@gmail.com**
+
 ---
 
 <p align="center">Developed by <strong>Syvryn Labs</strong></p>
